@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Animations-test.sh
+
 # library by myTermux dotfiles 
 # edit some
 
@@ -12,14 +14,7 @@ for HELPER in ${HELPERS[@]}; do
 done
 
 function main() {
-
-  
-
-  clear
-
+clear
 installPackages
-
 }
-
-
 main
