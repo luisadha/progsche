@@ -12,9 +12,13 @@ Animated progressbar similar to DHCP, add animation to your scripts using `sourc
 
        start_animation "[parameter1]" -> this parameter will display your message
 
+          e.g.: start_animation "Loading" # "Installing", "Copying" and etc.
+
     3. Run your command
 
     4. stop_animation "[parameter1]" -> this parameter your command's exit status
+
+          e.g.: stop_animation $? || exit 1
 
  Also see: test.sh
 
