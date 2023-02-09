@@ -1,7 +1,7 @@
 # Credits:
 #
 
-# - xShin
+# Reference
 # - https://github.com/tlatsas/bash-spinner
 # - https://github.com/mayTermux/myTermux
 
