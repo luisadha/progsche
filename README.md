@@ -34,3 +34,5 @@ Animated progressbar similar to DHCP, add animation to your scripts using `sourc
 * Xshin (My inpsirtation)
 
 * Alif-Hitagi (Tester)
+
+## MIT License 
