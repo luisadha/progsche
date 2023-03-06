@@ -3,7 +3,7 @@
 # contoh skrip yang membutuhkan library progres animasi loading
 # Semua adalah contoh yang dibuat sesimpel mungkin
 
-# Virtual Download package scripts
+# Simulations Download package scripts
 
 PACKAGES=(
   termux-info 
