@@ -29,6 +29,8 @@ Animated progressbar similar to DHCP, add animation to your scripts using `sourc
 
 - https://github.com/mayTermux/myTermux
 
+- https://github.com/luisadha/progsche
+
 ## Huge thank
 
 * Xshin (My inpsirtation)
