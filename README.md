@@ -1,4 +1,4 @@
-# progress-bar
+# progsche (module)
 
 Animated progressbar similar to DHCP, add animation to your scripts using `source'
 
@@ -16,7 +16,7 @@ Animated progressbar similar to DHCP, add animation to your scripts using `sourc
 
     3. Run your command
 
-    4. progsche_drive "[parameter1]" -> this parameter your command's exit status
+    4. progsche_brake "[parameter1]" -> this parameter your command's exit status
 
           e.g.: progsche_brake $? || exit 1
 
