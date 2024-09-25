@@ -25,7 +25,7 @@ icon='.'
 titik2="$2"
 
 
-function animation() {
+function progsche() {
 
  case $1 in
 
@@ -113,18 +113,16 @@ done
 
 
 
-function start_animation() {
-
+function progsche_drive() {
   setterm -cursor off
-  animation "start" "$1" &
+  progsche "start" "$1" &
   animation_pid=${!}
   disown
 
 }
 
-function stop_animation() {
-
-  animation "stop" $1 $animation_pid
+function progsche_brake() {
+  progsche "stop" $1 $animation_pid
   unset $animation_pid
   setterm -cursor on
 }
