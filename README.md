@@ -33,7 +33,7 @@ Animated progressbar similar to DHCP, add animation to your scripts using `sourc
 
 ## Inspirations
 
-* Xshin
+* xshin
 * tlatsas
 * alifnurc
 * u0a316
